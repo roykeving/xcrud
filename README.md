@@ -22,6 +22,10 @@ git clone https://github.com/xcrud/xcrud.git
 ```bash
 cd xcrud-reload
 
+Usage Examples
+
+
+
 Copyright
 ---------------------
 * (C) 2005 Open Source Matters, Inc. <https://www.xcrud.me>
