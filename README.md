@@ -22,7 +22,7 @@ git clone https://github.com/xcrud/xcrud.git
 ```bash
 cd xcrud-reload
 
-Usage Example
+- Usage Example
 
 <?php
     include('xcrud/xcrud.php');
@@ -46,7 +46,7 @@ Usage Example
 </html>
 
 
-Copyright
+-- Copyright
 ---------------------
 * (C) 2005 Open Source Matters, Inc. <https://www.xcrud.me>
 * Distributed under the GNU General Public License version 2 or later
